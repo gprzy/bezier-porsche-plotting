@@ -1,4 +1,4 @@
-# bezier-porsche-plotting
+# Plotando um Porsche com curvas de Bézier
 🏁 Realizando a plotagem de um Porsche utilizando curvas de Bézier e geometria analítica.
 
 <img align="center" src="assets/porsche_plot.png"><br>
